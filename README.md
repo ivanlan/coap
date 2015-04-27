@@ -1,1 +1,1 @@
-This library implements coap for erlang. 
+# CoAP library for erlang. 
